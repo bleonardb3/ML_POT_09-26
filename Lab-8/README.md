@@ -33,7 +33,7 @@ Upon completing the lab, you will learn how to:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/ML_POT_09-26/raw/master/Lab-8/ARTv2.0.pdf).
+[Instructions](https://github.com/bleonardb3/ML_POT_09-26/raw/master/Lab-8/ARTv3.0.pdf).
 
 
 
