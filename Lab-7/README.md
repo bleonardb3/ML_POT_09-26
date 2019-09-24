@@ -19,7 +19,7 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_09-05/raw/master/Lab-7/Neural%20Network%20Modeling%20with%20MNIST%20data%20set%20v13.pdf).
+[Instructions](https://github.com/bleonardb3/ML_POT_09-26/raw/master/Lab-7/Neural%20Network%20Modeling%20with%20MNIST%20data%20set%20v14.pdf).
 
 
 
